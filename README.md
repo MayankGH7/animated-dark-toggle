@@ -29,11 +29,3 @@ Before using this template, make sure you have the following prerequisites:
 2. Open the `index.html` file in a web browser to see the animated dark mode button in action.
 
 3. You can customize the button's appearance and behavior by modifying the HTML, CSS, and JavaScript files as needed.
-
-## License
-
-This template is provided under the [MIT License](LICENSE). You are free to use, modify, and distribute this code for both personal and commercial purposes. However, please give credit to the original author if you use it in your projects.
-
----
-
-Feel free to reach out if you have any questions or need further assistance with this template.
